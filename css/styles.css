@@ -257,7 +257,7 @@ header {
 }
 
 .hidden-mobile {
-	display: inherit;
+	display: inline;
 }
 
 .hidden-tablet {
